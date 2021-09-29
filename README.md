@@ -1,3 +1,15 @@
+# Project17
+ToDoApp - React
+
+## description
+The project presents a ToDoApp aplication created in react
+
+### technologies
++ React 
++ JavaScript 
++ CSS
++ HTML
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
